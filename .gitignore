@@ -28,3 +28,10 @@ forge*changelog.txt
 /run/
 /src/generated/
 /src/test/
+/logs/
+/gradle/
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+LICENSE.txt
