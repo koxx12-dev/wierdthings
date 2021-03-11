@@ -1,5 +1,7 @@
 # wierdthings
 wierdthings is my mc mod made with forge/java 
+# Known bugs  
+> OreGen not working
 # Q/A
 ## What version is this mod?
 1.16.4
