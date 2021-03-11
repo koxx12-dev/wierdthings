@@ -1,3 +1,10 @@
+<p align="center"> 
+  <img src="https://img.shields.io/github/license/koxx12-dev/wierdthings"> 
+  <img src="https://img.shields.io/discord/746384002465661059?label=discord">
+  <img src="https://img.shields.io/github/v/release/koxx12-dev/wierdthings?include_prereleases&label=pre-release">
+  <img src="https://img.shields.io/github/v/release/koxx12-dev/wierdthings">
+</p>
+
 # Wierd Things
 wierdthings is my mc mod made with forge/java       
 [CurseForge url](https://www.curseforge.com/minecraft/mc-mods/wierdthings).
