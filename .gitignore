@@ -25,11 +25,11 @@ run
 forge*changelog.txt
 
 #other
-/run/
-/src/generated/
-/src/test/
-/logs/
-/gradle/
+/run/*
+/src/generated/*
+/src/test/*
+/logs/*
+/gradle/*
 build.gradle
 gradle.properties
 gradlew
