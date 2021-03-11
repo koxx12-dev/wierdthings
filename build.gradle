@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = 'ALPHABUILD 1.2'
+version = 'v0.2-alpha'
 group = 'mod.koxx12.wierdthings' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'Weird Things'
 
