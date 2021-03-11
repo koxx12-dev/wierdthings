@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "wierdthings:redwortium_ingot"
+  },
+  "result": {
+    "item": "wierdthings:redwortium_pickaxe"
+  }
+}

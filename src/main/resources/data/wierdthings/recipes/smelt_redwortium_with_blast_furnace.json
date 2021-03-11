@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "wierdthings:redwortium_ore"
+  },
+  "result": "wierdthings:redwortium_chunk",
+  "experience": 10,
+  "cookingtime": 900
+}

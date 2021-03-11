@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "wierdthings:redwortium_ore"
+  },
+  "result": "wierdthings:redwortium_chunk",
+  "experience": 7,
+  "cookingtime": 1200
+}

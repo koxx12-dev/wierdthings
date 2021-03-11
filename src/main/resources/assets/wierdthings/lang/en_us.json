@@ -1,0 +1,9 @@
+{
+	"item.wierdthings.redwortium_ingot": "Redwortium Ingot",
+	"itemGroup.WeirdThings": "Weird Things",
+	"item.wierdthings.redwortium_chunk": "Redwortium Chunk",
+	"item.wierdthings.redwortium_pickaxe": "Redwortium Pickaxe",
+	"tooltip.redwortium_pickaxe.hand": "\u00A72When held in hand",
+	"block.wierdthings.redwortium_ore": "Redwortium Ore",
+	"block.wierdthings.statue": "Statue"
+}

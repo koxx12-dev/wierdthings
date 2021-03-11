@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#nB",
+    "LnG",
+    "AAA"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_dye"
+    },
+    "n": {
+      "item": "wierdthings:redwortium_ingot"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "L": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "G": {
+      "item": "minecraft:gray_dye"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "wierdthings:statue",
+    "count": 1
+  }
+}

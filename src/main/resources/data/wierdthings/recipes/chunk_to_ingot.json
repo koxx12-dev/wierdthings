@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCD",
+    "CND",
+    "DDD"
+  ],
+  "key": {
+    "C": {
+      "item": "wierdthings:redwortium_chunk"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "wierdthings:redwortium_ingot",
+    "count": 1
+  }
+}
