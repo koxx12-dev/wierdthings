@@ -1,6 +1,8 @@
 <p align="center"> 
   <img src="https://img.shields.io/github/license/koxx12-dev/wierdthings"> 
-  <img src="https://img.shields.io/discord/746384002465661059?label=discord">
+  <a href="http://discord.gg/JNpUwpq">
+    <img src="https://img.shields.io/discord/746384002465661059?label=discord",>
+  </a>
   <img src="https://img.shields.io/github/v/release/koxx12-dev/wierdthings?include_prereleases&label=pre-release">
   <img src="https://img.shields.io/github/v/release/koxx12-dev/wierdthings">
 </p>
