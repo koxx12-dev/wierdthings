@@ -1,0 +1,11 @@
+{
+  "homepage": "https://github.com/koxx12-dev/wierdthings",
+  "1.16.4": {
+    "v0.2.1-alpha": "added github integration"
+  },
+  "promos": {
+    "1.16.4-latest": "v0.2.1-alpha",
+    "1.16.4-recommended": "v0.2.1-alpha"
+  }
+}
+  
