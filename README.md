@@ -1,5 +1,6 @@
-# wierdthings
-wierdthings is my mc mod made with forge/java 
+# Wierd Things
+wierdthings is my mc mod made with forge/java       
+[CurseForge url](https://www.curseforge.com/minecraft/mc-mods/wierdthings).
 # Known bugs  
 > OreGen not working
 # Q/A
